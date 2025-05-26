@@ -26,7 +26,7 @@ DNS Amplification Attacks if misconfigured.
 
 Zone Transfers can leak internal records if allowed.
 
-Can be abused for DNS tunneling (data exfiltration).
+Can be abused for DNS tunneling 
 
 Host: 10.0.2.2
 Open Ports:
